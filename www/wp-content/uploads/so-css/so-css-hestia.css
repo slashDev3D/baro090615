@@ -1,0 +1,35 @@
+.col-md-4 {
+    width: 100%;
+}
+footer.footer.footer-black {
+    background: #121212;
+}
+.footer-big .copyright {
+   
+    display: none;
+}
+
+.navbar.hestia_left>.container {
+
+    width: 1400px;
+}
+.footer .footer-menu a, .hestia-top-bar, .label, .media-footer a, .navbar, .navbar a {
+    font-size: 14px;
+}
+
+.kboard-pure-gallery-poweredby {
+  
+    display: none;
+}
+
+#kboard-pure-gallery-list .kboard-category .kboard-category-list li {
+ 
+    padding: 0 2px;
+    border: 1px solid #ddd;
+    list-style: none;
+}
+
+.kboard-avatar-poweredby {
+
+    display: none;
+}
